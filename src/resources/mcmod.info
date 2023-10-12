@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "remotecommands",
+    "name": "Remote Commands",
+    "description": "",
+    "version": "1.0.2",
+    "mcversion": "1.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "spacebuilder2020" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [ ],
+    "parent": "",
+    "requiredMods": [ "Forge"],
+    "dependencies": [ ],
+    "dependants": [ ],
+    "useDependencyInformation": true
+  }]
+}
